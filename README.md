@@ -16,4 +16,3 @@ https://huggingface.co/Salesforce/blip-image-captioning-large
 <br>pip install --upgrade git+https://github.com/huggingface/transformers accelerate
 <br>2.ai
 <br>pip install diffsynth
-<br>3.ai
